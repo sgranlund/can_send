@@ -1,0 +1,5 @@
+function_states.c:11:6:startup_blink	16	static
+function_states.c:21:6:recieve_CAN	16	static
+function_states.c:24:6:send_CAN	32	static
+function_states.c:38:6:send_UART	24	static
+function_states.c:51:6:state_machine	16	static
